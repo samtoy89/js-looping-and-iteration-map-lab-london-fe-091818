@@ -3,6 +3,6 @@ let lowerCaseDrivers = drivers.map (function (drivers) {
   return lowerCaseDrivers
 });
 
-let nameToAttributes = drivers.map (function(.firstname, .lastName){
+let nameToAttributes = (function(.firstname, .lastName){
   return firstName, lastName
 })
