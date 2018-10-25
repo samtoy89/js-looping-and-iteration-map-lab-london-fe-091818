@@ -7,7 +7,7 @@ let nameToAttributes = (function(.firstname, .lastName){
   return firstName, lastName
 })
 
-function getFullName(item, index) {
+function nameToAttributes(item, index) {
     var fullname = [item.firstname,item.lastname].join(" ");
     return fullname;
 }
