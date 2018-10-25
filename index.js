@@ -1,2 +1,2 @@
 // Code your solution in this file.
-let lowerCaseDrivers = returns all drivers lowercased
+let lowerCaseDrivers = drivers.map
