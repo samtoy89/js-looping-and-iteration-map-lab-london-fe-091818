@@ -4,5 +4,5 @@ let lowerCaseDrivers = drivers.map (function (drivers) {
 });
 
 let nameToAttributes = drivers.map (function(.firstname .lastName){
-  return 
+  return firstName
 })
